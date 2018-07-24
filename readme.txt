@@ -5,4 +5,4 @@ Git has a mutable index call stage.
 
 i have a github account!
 
-now creating a new branch.
+now creating a new branch. simple and quick .
