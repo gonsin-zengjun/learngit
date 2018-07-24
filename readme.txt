@@ -3,4 +3,4 @@ Git is free software,under GPL.
 
 Git has a mutable index call stage.
 
-xxx0000
+i have a github account!
