@@ -7,4 +7,6 @@ i have a github account!
 
 now creating a new branch. simple and quick .
 
-add merge
+add merge 
+
+test stash
